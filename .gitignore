@@ -1,0 +1,32 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+# Local research data: retain until redistribution permissions are confirmed.
+RO_data/*
+!RO_data/README.md
+data/tables/*
+!data/tables/README.md
+catboost_info/*
+!catboost_info/README.md
+reports/runs/
+# Model binaries and machine-local training outputs
+*.pkl
+*.joblib
+*.cbm
+
+# Full recovered originals and compatibility data are preserved locally.
+archive/
+/gem.ipynb
+/preprocessing.ipynb
+/processing.ipynb
+/process2.ipynb
+/*.csv
+/*.xlsx
+reports/**/predictions.csv

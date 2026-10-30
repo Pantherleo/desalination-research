@@ -1,0 +1,38 @@
+[
+  {
+    "notebook": "preprocessing.ipynb",
+    "cells": 12,
+    "code_cells": 12,
+    "source_characters": 4959,
+    "bytes": 1742660,
+    "sha256": "f5d72d59359ce5def9d9ad2516fe449642315c521419b56a388a0d865c481943",
+    "recovery": "exact backup payload, no code or outputs edited"
+  },
+  {
+    "notebook": "process2.ipynb",
+    "cells": 42,
+    "code_cells": 42,
+    "source_characters": 15730,
+    "bytes": 263592,
+    "sha256": "394c1018fe5d4de3d5647ef96eac82d4a2e360351075685e4efabbc7cce5274d",
+    "recovery": "exact backup payload, no code or outputs edited"
+  },
+  {
+    "notebook": "processing.ipynb",
+    "cells": 10,
+    "code_cells": 10,
+    "source_characters": 3172,
+    "bytes": 171263,
+    "sha256": "64ff9db5067c445de673c08f61dbdd9a0bd6eab1ebceed6539c6cc025d147876",
+    "recovery": "exact backup payload, no code or outputs edited"
+  },
+  {
+    "notebook": "gem.ipynb",
+    "cells": 30,
+    "code_cells": 30,
+    "source_characters": 40770,
+    "bytes": 2315014,
+    "sha256": "f3bf8daea7674de2b64d2513dc20ab7b4ff3ba56dae0bb6daf8f58c880aa5c5e",
+    "recovery": "exact backup payload, no code or outputs edited"
+  }
+]

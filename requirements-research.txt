@@ -1,0 +1,13 @@
+-r requirements.txt
+# Recovered model, plotting, explanation and notebook imports.
+jupyterlab
+nbformat
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+shap

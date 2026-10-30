@@ -1,0 +1,696 @@
+[
+  {
+    "recovered_path": "preprocessing.ipynb",
+    "recovered_sha256": "f5d72d59359ce5def9d9ad2516fe449642315c521419b56a388a0d865c481943",
+    "archive_path": "archive/recovered_originals/preprocessing.ipynb",
+    "review_path": "notebooks/01_preprocessing/preprocessing.ipynb",
+    "cell_count": 12,
+    "cells": [
+      {
+        "cell": 1,
+        "cell_id": "8f338830",
+        "action": "preserve",
+        "original_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "review_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "cell": 2,
+        "cell_id": "885b7819",
+        "action": "comment_only",
+        "original_source_sha256": "07ee1a96fdc9f08ff771f75a4665e3227ad4b37d2de2cc32d65ad49097e17366",
+        "review_source_sha256": "685cf32eae9a2ba5c82ef4abbc777686e84f5cfc1fb8b97bcdadcfd78b8582b6"
+      },
+      {
+        "cell": 3,
+        "cell_id": "13ec53fd",
+        "action": "preserve",
+        "original_source_sha256": "15fe98a00510ce40e116dfd6045a6dd4a531d490bf26c0b14bb8e0e2971e4a85",
+        "review_source_sha256": "15fe98a00510ce40e116dfd6045a6dd4a531d490bf26c0b14bb8e0e2971e4a85"
+      },
+      {
+        "cell": 4,
+        "cell_id": "8b228130",
+        "action": "preserve",
+        "original_source_sha256": "b277444dca33978fd8ce48ace3e4f50fd2c3ad64a519d64b198fedca4fec446e",
+        "review_source_sha256": "b277444dca33978fd8ce48ace3e4f50fd2c3ad64a519d64b198fedca4fec446e"
+      },
+      {
+        "cell": 5,
+        "cell_id": "356ec2d5",
+        "action": "preserve",
+        "original_source_sha256": "6eced763c3699fb08fc30db5926e977c9a29d6b54fad73366e58eeb309270a07",
+        "review_source_sha256": "6eced763c3699fb08fc30db5926e977c9a29d6b54fad73366e58eeb309270a07"
+      },
+      {
+        "cell": 6,
+        "cell_id": "5efd7e56",
+        "action": "preserve",
+        "original_source_sha256": "bb9f87cdbe8cefda21385424d4b45d891196efc73c160d89c7f3602c140bdda4",
+        "review_source_sha256": "bb9f87cdbe8cefda21385424d4b45d891196efc73c160d89c7f3602c140bdda4"
+      },
+      {
+        "cell": 7,
+        "cell_id": "fd58d14f",
+        "action": "preserve",
+        "original_source_sha256": "50715ea15491f32d2173c42085a2abf56c7ae12e788477c408845b4b31e937ca",
+        "review_source_sha256": "50715ea15491f32d2173c42085a2abf56c7ae12e788477c408845b4b31e937ca"
+      },
+      {
+        "cell": 8,
+        "cell_id": "0a82a269",
+        "action": "preserve",
+        "original_source_sha256": "cff247ba7bc91dc218407b5adc51583239ace8712b6f4db8eab8f5cdcb62785e",
+        "review_source_sha256": "cff247ba7bc91dc218407b5adc51583239ace8712b6f4db8eab8f5cdcb62785e"
+      },
+      {
+        "cell": 9,
+        "cell_id": "0e0941ed",
+        "action": "preserve",
+        "original_source_sha256": "6b8f36640f2cc425aa838418c8e7732001e43076247599215b7a6cc6dd549e20",
+        "review_source_sha256": "6b8f36640f2cc425aa838418c8e7732001e43076247599215b7a6cc6dd549e20"
+      },
+      {
+        "cell": 10,
+        "cell_id": "5fae5c30",
+        "action": "comment_only",
+        "original_source_sha256": "e471558c8e05152a092a24f72131e48bc6e3a7226cdc54ba6bb9657809803d3c",
+        "review_source_sha256": "0fad90ee97484e3ea19610005d71b094a4c736877a345f1d7a2510acb648b5b7"
+      },
+      {
+        "cell": 11,
+        "cell_id": "b867e89e",
+        "action": "preserve",
+        "original_source_sha256": "9b7fa4a200af72b0c4607c475e46538ccd3fff17c7816e4802383ac662eb6cdc",
+        "review_source_sha256": "9b7fa4a200af72b0c4607c475e46538ccd3fff17c7816e4802383ac662eb6cdc"
+      },
+      {
+        "cell": 12,
+        "cell_id": "02e00f0a",
+        "action": "preserve",
+        "original_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "review_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  {
+    "recovered_path": "process2.ipynb",
+    "recovered_sha256": "394c1018fe5d4de3d5647ef96eac82d4a2e360351075685e4efabbc7cce5274d",
+    "archive_path": "archive/recovered_originals/process2.ipynb",
+    "review_path": "notebooks/02_extraction/process2.ipynb",
+    "cell_count": 42,
+    "cells": [
+      {
+        "cell": 1,
+        "cell_id": "9528e079",
+        "action": "comment_only",
+        "original_source_sha256": "af9146ac17eac3e6e9b876e21e918a8537735c3740fb53db6ca77598283292fa",
+        "review_source_sha256": "5ef2c59f6929e92c2a43b1f1337d6d27ed2963802f382a60e480ea8db1ab2369"
+      },
+      {
+        "cell": 2,
+        "cell_id": "d3837192",
+        "action": "preserve",
+        "original_source_sha256": "0bf6fc838298d27b0bfa2958b66b2bea65b71d402832bb408931eab158782007",
+        "review_source_sha256": "0bf6fc838298d27b0bfa2958b66b2bea65b71d402832bb408931eab158782007"
+      },
+      {
+        "cell": 3,
+        "cell_id": "2b7eb736",
+        "action": "preserve",
+        "original_source_sha256": "f7928234b34394a24d11eb52b89a27042d0739852479d7dce0d3d1e80424e259",
+        "review_source_sha256": "f7928234b34394a24d11eb52b89a27042d0739852479d7dce0d3d1e80424e259"
+      },
+      {
+        "cell": 4,
+        "cell_id": "bede9cc8",
+        "action": "preserve",
+        "original_source_sha256": "0401548bef9386063410c1aad05d5c83a0d5d98aeb6fbceb338104312f9d92fe",
+        "review_source_sha256": "0401548bef9386063410c1aad05d5c83a0d5d98aeb6fbceb338104312f9d92fe"
+      },
+      {
+        "cell": 5,
+        "cell_id": "be96cc8c",
+        "action": "preserve",
+        "original_source_sha256": "be667ad6c2ece0a03d075ce17316ff6a0b290b7c3ab7b087c3350962d06a6235",
+        "review_source_sha256": "be667ad6c2ece0a03d075ce17316ff6a0b290b7c3ab7b087c3350962d06a6235"
+      },
+      {
+        "cell": 6,
+        "cell_id": "f5bee322",
+        "action": "comment_only",
+        "original_source_sha256": "08f81cf225f80c7c7647deb109381417913d779a56b93325f52c468749c4ae33",
+        "review_source_sha256": "2b8178bf95805c4dbfbf0342c7a815079ac022ad29b5823af6c9a6511b5a5471"
+      },
+      {
+        "cell": 7,
+        "cell_id": "09a273ff",
+        "action": "preserve",
+        "original_source_sha256": "08f81cf225f80c7c7647deb109381417913d779a56b93325f52c468749c4ae33",
+        "review_source_sha256": "08f81cf225f80c7c7647deb109381417913d779a56b93325f52c468749c4ae33"
+      },
+      {
+        "cell": 8,
+        "cell_id": "73c1ad36",
+        "action": "preserve",
+        "original_source_sha256": "a812842da93898222e7bf099899804765adcf8172c4c9601ec15411e611672d5",
+        "review_source_sha256": "a812842da93898222e7bf099899804765adcf8172c4c9601ec15411e611672d5"
+      },
+      {
+        "cell": 9,
+        "cell_id": "1024b043",
+        "action": "preserve",
+        "original_source_sha256": "2bdb6a09c60c202b0019d1c843062f636fed8bc484887a1399aea73c1874f4b6",
+        "review_source_sha256": "2bdb6a09c60c202b0019d1c843062f636fed8bc484887a1399aea73c1874f4b6"
+      },
+      {
+        "cell": 10,
+        "cell_id": "becda9fe",
+        "action": "preserve",
+        "original_source_sha256": "0ff087e511e0aa2e9074eeaa6187bce5410e434e3a48f0315ce08ce6f8bf00b5",
+        "review_source_sha256": "0ff087e511e0aa2e9074eeaa6187bce5410e434e3a48f0315ce08ce6f8bf00b5"
+      },
+      {
+        "cell": 11,
+        "cell_id": "e87ef292",
+        "action": "preserve",
+        "original_source_sha256": "fb0423bd70352cd1738cdba000ee2309360ccfc102b20fbab3d4c1fc2099566b",
+        "review_source_sha256": "fb0423bd70352cd1738cdba000ee2309360ccfc102b20fbab3d4c1fc2099566b"
+      },
+      {
+        "cell": 12,
+        "cell_id": "a9b288e2",
+        "action": "preserve",
+        "original_source_sha256": "2911db2e05f4e31b5bb2c78af5f7448a76a467ce1029e265a09cfe38c5c4964c",
+        "review_source_sha256": "2911db2e05f4e31b5bb2c78af5f7448a76a467ce1029e265a09cfe38c5c4964c"
+      },
+      {
+        "cell": 13,
+        "cell_id": "5d5ff489",
+        "action": "preserve",
+        "original_source_sha256": "7f6f357a6d79bfef17da6dec286ed134cf31d37a8cec002f11985baad27c409b",
+        "review_source_sha256": "7f6f357a6d79bfef17da6dec286ed134cf31d37a8cec002f11985baad27c409b"
+      },
+      {
+        "cell": 14,
+        "cell_id": "c73a7d05",
+        "action": "preserve",
+        "original_source_sha256": "340ea229e889cb6b4a3f45fcb01ba73d8eeb381aeaf139c20d41d68818358ace",
+        "review_source_sha256": "340ea229e889cb6b4a3f45fcb01ba73d8eeb381aeaf139c20d41d68818358ace"
+      },
+      {
+        "cell": 15,
+        "cell_id": "0f628f50",
+        "action": "preserve",
+        "original_source_sha256": "785917b3c93af55e63693e3b0ebebecdf83820213f9e81d6cdfbf2b8a1d079ab",
+        "review_source_sha256": "785917b3c93af55e63693e3b0ebebecdf83820213f9e81d6cdfbf2b8a1d079ab"
+      },
+      {
+        "cell": 16,
+        "cell_id": "167cd381",
+        "action": "preserve",
+        "original_source_sha256": "baa6424d2934f8dbd6d168f7f79613d0832e8f544ef23d4f5ac4f00cfed0e826",
+        "review_source_sha256": "baa6424d2934f8dbd6d168f7f79613d0832e8f544ef23d4f5ac4f00cfed0e826"
+      },
+      {
+        "cell": 17,
+        "cell_id": "d43c5e36",
+        "action": "preserve",
+        "original_source_sha256": "e0dd728c4bfea107aa5cf13c2ddcae2e0290b56987775cf9de314bd92ad864be",
+        "review_source_sha256": "e0dd728c4bfea107aa5cf13c2ddcae2e0290b56987775cf9de314bd92ad864be"
+      },
+      {
+        "cell": 18,
+        "cell_id": "12736234",
+        "action": "preserve",
+        "original_source_sha256": "10e1e2f3d76259933f8b3425cc813e1e95fb9ebb70d0fb2d970924e573d623e9",
+        "review_source_sha256": "10e1e2f3d76259933f8b3425cc813e1e95fb9ebb70d0fb2d970924e573d623e9"
+      },
+      {
+        "cell": 19,
+        "cell_id": "1c798119",
+        "action": "preserve",
+        "original_source_sha256": "c4da0ce089cc5eb14d654b389378a1fbc93431e4bc70e2c0a425a4505be099b3",
+        "review_source_sha256": "c4da0ce089cc5eb14d654b389378a1fbc93431e4bc70e2c0a425a4505be099b3"
+      },
+      {
+        "cell": 20,
+        "cell_id": "d9f0fce9",
+        "action": "preserve",
+        "original_source_sha256": "0a4f94448ee293da924aeb60f331d0b00f7efd21a4dea7a2f8ac138d72095fd3",
+        "review_source_sha256": "0a4f94448ee293da924aeb60f331d0b00f7efd21a4dea7a2f8ac138d72095fd3"
+      },
+      {
+        "cell": 21,
+        "cell_id": "bcd3ce55",
+        "action": "preserve",
+        "original_source_sha256": "1c8f9f03f4a4d509fa7f9d3e8265caedaf779ee1d41bc8918e80c2075756361d",
+        "review_source_sha256": "1c8f9f03f4a4d509fa7f9d3e8265caedaf779ee1d41bc8918e80c2075756361d"
+      },
+      {
+        "cell": 22,
+        "cell_id": "1bcee138",
+        "action": "preserve",
+        "original_source_sha256": "bcfe5244e504ee01559a1ab4abe1900eb42d6f3f2b91ba8806e6a98c58e0046c",
+        "review_source_sha256": "bcfe5244e504ee01559a1ab4abe1900eb42d6f3f2b91ba8806e6a98c58e0046c"
+      },
+      {
+        "cell": 23,
+        "cell_id": "8848e835",
+        "action": "preserve",
+        "original_source_sha256": "50bbecf6dcac129082fae077768a2c21006fc0122fba82e5d94debfbf8843439",
+        "review_source_sha256": "50bbecf6dcac129082fae077768a2c21006fc0122fba82e5d94debfbf8843439"
+      },
+      {
+        "cell": 24,
+        "cell_id": "de337040",
+        "action": "preserve",
+        "original_source_sha256": "be1c3cb8e48b226bf118daf2620819a1ebe3e49580af67d06676be9b474c0035",
+        "review_source_sha256": "be1c3cb8e48b226bf118daf2620819a1ebe3e49580af67d06676be9b474c0035"
+      },
+      {
+        "cell": 25,
+        "cell_id": "d34cb364",
+        "action": "preserve",
+        "original_source_sha256": "6f1b71c790f03a7b5b91c98c1e1ce4f1cdd76208344103986d4a0463d0d62ed7",
+        "review_source_sha256": "6f1b71c790f03a7b5b91c98c1e1ce4f1cdd76208344103986d4a0463d0d62ed7"
+      },
+      {
+        "cell": 26,
+        "cell_id": "a17849ba",
+        "action": "preserve",
+        "original_source_sha256": "6b45fbe55f37ab6e74922596d3a6bdb6bc63e9850108757cfc75e60203a80576",
+        "review_source_sha256": "6b45fbe55f37ab6e74922596d3a6bdb6bc63e9850108757cfc75e60203a80576"
+      },
+      {
+        "cell": 27,
+        "cell_id": "65a1ee46",
+        "action": "preserve",
+        "original_source_sha256": "08312df62db4395e282738773541e1f65677250f932aa087b40fb779c4811ccd",
+        "review_source_sha256": "08312df62db4395e282738773541e1f65677250f932aa087b40fb779c4811ccd"
+      },
+      {
+        "cell": 28,
+        "cell_id": "9b7e2a87",
+        "action": "preserve",
+        "original_source_sha256": "b29ce9e12663031f3e8cb7d8b615b1bd38fdd6990260d5d7aaf45c683280fb84",
+        "review_source_sha256": "b29ce9e12663031f3e8cb7d8b615b1bd38fdd6990260d5d7aaf45c683280fb84"
+      },
+      {
+        "cell": 29,
+        "cell_id": "d5182bb1",
+        "action": "preserve",
+        "original_source_sha256": "0adbe7808155ead934b66242fe7eb571f54fe00583af24572fb9002bfda7420d",
+        "review_source_sha256": "0adbe7808155ead934b66242fe7eb571f54fe00583af24572fb9002bfda7420d"
+      },
+      {
+        "cell": 30,
+        "cell_id": "e85a5d51",
+        "action": "preserve",
+        "original_source_sha256": "5e6f5325acd232c7c8c307c7dd2b4e6056e7e094d65625388094262ca850ff9f",
+        "review_source_sha256": "5e6f5325acd232c7c8c307c7dd2b4e6056e7e094d65625388094262ca850ff9f"
+      },
+      {
+        "cell": 31,
+        "cell_id": "533f161f",
+        "action": "preserve",
+        "original_source_sha256": "5840123a7b6da089aa8455ccef1e1047702fd33ab4cfdf86b9fd55a43d61b404",
+        "review_source_sha256": "5840123a7b6da089aa8455ccef1e1047702fd33ab4cfdf86b9fd55a43d61b404"
+      },
+      {
+        "cell": 32,
+        "cell_id": "40048f5f",
+        "action": "preserve",
+        "original_source_sha256": "d2585d5ba1e6ef178c42e6f3cf4497f7a4a719b1d7d51486c3d3764374c2f54e",
+        "review_source_sha256": "d2585d5ba1e6ef178c42e6f3cf4497f7a4a719b1d7d51486c3d3764374c2f54e"
+      },
+      {
+        "cell": 33,
+        "cell_id": "417feab7",
+        "action": "preserve",
+        "original_source_sha256": "dc8a76474e461592f83189f06576b2f037a31bece15469c8625c9815cb203ced",
+        "review_source_sha256": "dc8a76474e461592f83189f06576b2f037a31bece15469c8625c9815cb203ced"
+      },
+      {
+        "cell": 34,
+        "cell_id": "5cefecc3",
+        "action": "preserve",
+        "original_source_sha256": "937e15c0a2bb4deabee08ec788861930d7a120ecc665958c86240185c93c9dfe",
+        "review_source_sha256": "937e15c0a2bb4deabee08ec788861930d7a120ecc665958c86240185c93c9dfe"
+      },
+      {
+        "cell": 35,
+        "cell_id": "92e5a69e",
+        "action": "preserve",
+        "original_source_sha256": "b8f9735f8ba8c75f3f823091e0c5ab7287011c1b3ebe30ec98a74016c3596f59",
+        "review_source_sha256": "b8f9735f8ba8c75f3f823091e0c5ab7287011c1b3ebe30ec98a74016c3596f59"
+      },
+      {
+        "cell": 36,
+        "cell_id": "7f504bf4",
+        "action": "preserve",
+        "original_source_sha256": "5123206575cb6a0488b3b7bb6236634be70227d7eb3b16beebb7f7e9764753da",
+        "review_source_sha256": "5123206575cb6a0488b3b7bb6236634be70227d7eb3b16beebb7f7e9764753da"
+      },
+      {
+        "cell": 37,
+        "cell_id": "5c34ee04",
+        "action": "preserve",
+        "original_source_sha256": "6b8835eeb2da3c72b75f102f886fc981d5895a0d2d64d039ae3fc347cc598c74",
+        "review_source_sha256": "6b8835eeb2da3c72b75f102f886fc981d5895a0d2d64d039ae3fc347cc598c74"
+      },
+      {
+        "cell": 38,
+        "cell_id": "f68a8b8b",
+        "action": "preserve",
+        "original_source_sha256": "7f255f4599bd82cffe5e88b29bc177532071e76856c6d62530ef7b377dbfd5b7",
+        "review_source_sha256": "7f255f4599bd82cffe5e88b29bc177532071e76856c6d62530ef7b377dbfd5b7"
+      },
+      {
+        "cell": 39,
+        "cell_id": "b88d24c8",
+        "action": "preserve",
+        "original_source_sha256": "1051ec74508a474e68d890b7d9c0b349a6163b272c2b1af4aa9ba84acb7c6306",
+        "review_source_sha256": "1051ec74508a474e68d890b7d9c0b349a6163b272c2b1af4aa9ba84acb7c6306"
+      },
+      {
+        "cell": 40,
+        "cell_id": "76231ba7",
+        "action": "preserve",
+        "original_source_sha256": "7160885164266a347deb4add43db05591272f5a33c90e4d58848f31627d6f8c2",
+        "review_source_sha256": "7160885164266a347deb4add43db05591272f5a33c90e4d58848f31627d6f8c2"
+      },
+      {
+        "cell": 41,
+        "cell_id": "ccb80519",
+        "action": "preserve",
+        "original_source_sha256": "6053fd198023428e8754484e26709d997d9e2f8bd5f41ed353950a7a2694d890",
+        "review_source_sha256": "6053fd198023428e8754484e26709d997d9e2f8bd5f41ed353950a7a2694d890"
+      },
+      {
+        "cell": 42,
+        "cell_id": "1c314df8",
+        "action": "comment_only",
+        "original_source_sha256": "0031ad50529a16ac7cac96fd6e31864444b7b90e5876578cc5d71d732cb16beb",
+        "review_source_sha256": "a395d53b2989f27826e23295acc0e6ff2914c7c34be0ab36686ed3538cba05f3"
+      }
+    ]
+  },
+  {
+    "recovered_path": "processing.ipynb",
+    "recovered_sha256": "64ff9db5067c445de673c08f61dbdd9a0bd6eab1ebceed6539c6cc025d147876",
+    "archive_path": "archive/recovered_originals/processing.ipynb",
+    "review_path": "notebooks/02_extraction/processing.ipynb",
+    "cell_count": 10,
+    "cells": [
+      {
+        "cell": 1,
+        "cell_id": "8326456c",
+        "action": "comment_only",
+        "original_source_sha256": "af9146ac17eac3e6e9b876e21e918a8537735c3740fb53db6ca77598283292fa",
+        "review_source_sha256": "bc6e812d633967cec1aa9d0218f9eba05ba7307b99f3ba2493b9a21becf5cddc"
+      },
+      {
+        "cell": 2,
+        "cell_id": "e679deb8",
+        "action": "preserve",
+        "original_source_sha256": "4497c305347eb9a9fec7038f9ca3769b20e5e7957452d499f980eda151f0d90a",
+        "review_source_sha256": "4497c305347eb9a9fec7038f9ca3769b20e5e7957452d499f980eda151f0d90a"
+      },
+      {
+        "cell": 3,
+        "cell_id": "cc1b88b4",
+        "action": "preserve",
+        "original_source_sha256": "176f2ee51f9694c85a0e39eda8b2ea1659c965a3ced9f144cc339c9afcce28a1",
+        "review_source_sha256": "176f2ee51f9694c85a0e39eda8b2ea1659c965a3ced9f144cc339c9afcce28a1"
+      },
+      {
+        "cell": 4,
+        "cell_id": "ac06114a",
+        "action": "preserve",
+        "original_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "review_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "cell": 5,
+        "cell_id": "31b3c801",
+        "action": "preserve",
+        "original_source_sha256": "7b50cec09c4ed9fae2e1814120cd307b9bdc202e7dac6f6fee8b56e8f24f9e0b",
+        "review_source_sha256": "7b50cec09c4ed9fae2e1814120cd307b9bdc202e7dac6f6fee8b56e8f24f9e0b"
+      },
+      {
+        "cell": 6,
+        "cell_id": "56f0d8d9",
+        "action": "preserve",
+        "original_source_sha256": "88dd6c877c2c27586cc88503c3b551c0477dd140121066facb8a1fef833d36f2",
+        "review_source_sha256": "88dd6c877c2c27586cc88503c3b551c0477dd140121066facb8a1fef833d36f2"
+      },
+      {
+        "cell": 7,
+        "cell_id": "4f815dd7",
+        "action": "comment_only",
+        "original_source_sha256": "29c95d7a89e3b3353f7ca84d4f2d421cea97b0db5a485c26051a77689949d2dc",
+        "review_source_sha256": "906541467f3b61f5ff736e2dedf448339efacf953d3af8998d7a12e66464c70a"
+      },
+      {
+        "cell": 8,
+        "cell_id": "5f86e9c9",
+        "action": "preserve",
+        "original_source_sha256": "ba66d2af40214ba98b8b074ae7dbfb9c7374b09bea9b82535edd405b76dbc0ac",
+        "review_source_sha256": "ba66d2af40214ba98b8b074ae7dbfb9c7374b09bea9b82535edd405b76dbc0ac"
+      },
+      {
+        "cell": 9,
+        "cell_id": "548fb957",
+        "action": "preserve",
+        "original_source_sha256": "f4e4a3a1ff6bd06ca619410ab157e50b467d47f0e4b6e5083fc2100f4ec1529e",
+        "review_source_sha256": "f4e4a3a1ff6bd06ca619410ab157e50b467d47f0e4b6e5083fc2100f4ec1529e"
+      },
+      {
+        "cell": 10,
+        "cell_id": "b871f0a5",
+        "action": "preserve",
+        "original_source_sha256": "4dcd9549b0fe46b63abaa099a8e6c4bbed463c2d4511600cb1c6afe4e7671e51",
+        "review_source_sha256": "4dcd9549b0fe46b63abaa099a8e6c4bbed463c2d4511600cb1c6afe4e7671e51"
+      }
+    ]
+  },
+  {
+    "recovered_path": "gem.ipynb",
+    "recovered_sha256": "f3bf8daea7674de2b64d2513dc20ab7b4ff3ba56dae0bb6daf8f58c880aa5c5e",
+    "archive_path": "archive/recovered_originals/gem.ipynb",
+    "review_path": "notebooks/03_modeling/gem.ipynb",
+    "cell_count": 30,
+    "cells": [
+      {
+        "cell": 1,
+        "cell_id": "c3608e73",
+        "action": "comment_only",
+        "original_source_sha256": "96e92bf883bc66068ad2dd34444d9d815b8884bd41f7748f4891103d446acf35",
+        "review_source_sha256": "a45a62e8f9ab65aafe4a5773702d505d6de6552df4d316442883d3624d8822b1"
+      },
+      {
+        "cell": 2,
+        "cell_id": "382a73f7",
+        "action": "comment_only",
+        "original_source_sha256": "c4170c3e17c02921aea89769d4626e7e881834bdff210e70fd34dda9dec94c1e",
+        "review_source_sha256": "75cc9ea5c06551195ce944b93ab768c2917ecb9579bff163c517eb466eca1ecd"
+      },
+      {
+        "cell": 3,
+        "cell_id": "fdb68a08",
+        "action": "preserve",
+        "original_source_sha256": "1caceea49bdebaa82a4a9218b1941f4130365d0d57abecfc5cde4ec4fdcf8b96",
+        "review_source_sha256": "1caceea49bdebaa82a4a9218b1941f4130365d0d57abecfc5cde4ec4fdcf8b96"
+      },
+      {
+        "cell": 4,
+        "cell_id": "481f6c45",
+        "action": "preserve",
+        "original_source_sha256": "031cabc1aca7ba418b2dcb3e25e1ad9874932a101c333b20e4135830e42449f7",
+        "review_source_sha256": "031cabc1aca7ba418b2dcb3e25e1ad9874932a101c333b20e4135830e42449f7"
+      },
+      {
+        "cell": 5,
+        "cell_id": "b2a059f0",
+        "action": "preserve",
+        "original_source_sha256": "6049138ce02bdbd7589741bcb33761bf57adb10b9a83620c3e456eb88c0bdc4b",
+        "review_source_sha256": "6049138ce02bdbd7589741bcb33761bf57adb10b9a83620c3e456eb88c0bdc4b"
+      },
+      {
+        "cell": 6,
+        "cell_id": "df79c4a0",
+        "action": "preserve",
+        "original_source_sha256": "5f597fc95c40d86585cf65b12029460405ac71ddbb970b0988f07b96b708dc5d",
+        "review_source_sha256": "5f597fc95c40d86585cf65b12029460405ac71ddbb970b0988f07b96b708dc5d"
+      },
+      {
+        "cell": 7,
+        "cell_id": "b07450db",
+        "action": "preserve",
+        "original_source_sha256": "48ff32611bf0e822bf38f86bd0b9b9073e626d165a640dd67c145faa60eaf3ab",
+        "review_source_sha256": "48ff32611bf0e822bf38f86bd0b9b9073e626d165a640dd67c145faa60eaf3ab"
+      },
+      {
+        "cell": 8,
+        "cell_id": "a9164f3e",
+        "action": "preserve",
+        "original_source_sha256": "ddf276410793d6e1f1c29c9d77e6f3bb5c58a8b93bd022a100de4689ff5b5e05",
+        "review_source_sha256": "ddf276410793d6e1f1c29c9d77e6f3bb5c58a8b93bd022a100de4689ff5b5e05"
+      },
+      {
+        "cell": 9,
+        "cell_id": "6238a989",
+        "action": "comment_only",
+        "original_source_sha256": "3ade824f34024b0e4add0000e5aea31a9b5b88fc6292d74108e0465722104bc0",
+        "review_source_sha256": "0214b2755b8dd5633edd29cf4cf54c101d83819a728774dad37dce6aa3cfd1eb"
+      },
+      {
+        "cell": 10,
+        "cell_id": "1371a754",
+        "action": "preserve",
+        "original_source_sha256": "69cd5ff065f4e88440d576c223a9377c4f61717ce6c0df7dc2bc64f41196d4e5",
+        "review_source_sha256": "69cd5ff065f4e88440d576c223a9377c4f61717ce6c0df7dc2bc64f41196d4e5"
+      },
+      {
+        "cell": 11,
+        "cell_id": "0634365a",
+        "action": "preserve",
+        "original_source_sha256": "44881077bd0d62bb6f18c668932cdb358e9be9e8dadaed74b46b1e4f260aff94",
+        "review_source_sha256": "44881077bd0d62bb6f18c668932cdb358e9be9e8dadaed74b46b1e4f260aff94"
+      },
+      {
+        "cell": 12,
+        "cell_id": "63e0316c",
+        "action": "preserve",
+        "original_source_sha256": "2f66d549f6dba9887b42c8a913a5f041cfa00bfdb64ea3f8b3df7247451872d9",
+        "review_source_sha256": "2f66d549f6dba9887b42c8a913a5f041cfa00bfdb64ea3f8b3df7247451872d9"
+      },
+      {
+        "cell": 13,
+        "cell_id": "100522c3",
+        "action": "preserve",
+        "original_source_sha256": "8ce96d195ed7ec1d04805c2d279abc8f3d95896f667324e0308e0ce5b32b4380",
+        "review_source_sha256": "8ce96d195ed7ec1d04805c2d279abc8f3d95896f667324e0308e0ce5b32b4380"
+      },
+      {
+        "cell": 14,
+        "cell_id": "5c307a04",
+        "action": "preserve",
+        "original_source_sha256": "f1a8d3dba0d4347b7d8ef6e824d00473cf1e75e083d017a0e4787d7951ad71d5",
+        "review_source_sha256": "f1a8d3dba0d4347b7d8ef6e824d00473cf1e75e083d017a0e4787d7951ad71d5"
+      },
+      {
+        "cell": 15,
+        "cell_id": "f89f5524",
+        "action": "preserve",
+        "original_source_sha256": "57038249b49a9cb31081b105d6ce0da664d9a21096d2c308b50c762c72b843e2",
+        "review_source_sha256": "57038249b49a9cb31081b105d6ce0da664d9a21096d2c308b50c762c72b843e2"
+      },
+      {
+        "cell": 16,
+        "cell_id": "5812dd7f",
+        "action": "preserve",
+        "original_source_sha256": "e77c20afa103a5a5e545d338ae9c1ebd86548430635d1c23a9e000b1cb0b359f",
+        "review_source_sha256": "e77c20afa103a5a5e545d338ae9c1ebd86548430635d1c23a9e000b1cb0b359f"
+      },
+      {
+        "cell": 17,
+        "cell_id": "10d64b01",
+        "action": "preserve",
+        "original_source_sha256": "526da8cab320a6f53538b386bc9cc8f33ff0a4c864c418b7962b677517ba88ba",
+        "review_source_sha256": "526da8cab320a6f53538b386bc9cc8f33ff0a4c864c418b7962b677517ba88ba"
+      },
+      {
+        "cell": 18,
+        "cell_id": "413a94fc",
+        "action": "preserve",
+        "original_source_sha256": "fd2045506d1a22e40e76594b4a7a0d372d1ef4c07a58cfff54029a98fb79ac35",
+        "review_source_sha256": "fd2045506d1a22e40e76594b4a7a0d372d1ef4c07a58cfff54029a98fb79ac35"
+      },
+      {
+        "cell": 19,
+        "cell_id": "14389f67",
+        "action": "comment_only",
+        "original_source_sha256": "c6dafe2c7b4ce9b7cb1332aa27a1594abef72cd15d171c64138de2d1c81400f3",
+        "review_source_sha256": "2a05dba3a3da33cbd7ff419a0cf7fda02f41a21b745c47eb77faf3d401f5161b"
+      },
+      {
+        "cell": 20,
+        "cell_id": "1be5fd6d",
+        "action": "preserve",
+        "original_source_sha256": "a30f349579f0effb132de9b58d14c94a514b5e57017b2877a8c2628cd47aace2",
+        "review_source_sha256": "a30f349579f0effb132de9b58d14c94a514b5e57017b2877a8c2628cd47aace2"
+      },
+      {
+        "cell": 21,
+        "cell_id": "f516cb08",
+        "action": "preserve",
+        "original_source_sha256": "7ae33d06591b0d6bf44f659f4654527077aa0972d77a471daf687c3e03d025eb",
+        "review_source_sha256": "7ae33d06591b0d6bf44f659f4654527077aa0972d77a471daf687c3e03d025eb"
+      },
+      {
+        "cell": 22,
+        "cell_id": "b6ae016c",
+        "action": "preserve",
+        "original_source_sha256": "11bec47fd4cf6f9fec5693e71e7016781d6aac1636e8d96e34e22696671569c4",
+        "review_source_sha256": "11bec47fd4cf6f9fec5693e71e7016781d6aac1636e8d96e34e22696671569c4"
+      },
+      {
+        "cell": 23,
+        "cell_id": "698168de",
+        "action": "comment_only",
+        "original_source_sha256": "bf4ab5ff568d3581982a082ee424587760e7bbfa0dadaca5a64124f8c890e4a1",
+        "review_source_sha256": "b1de41e7753859a1eb9dc3054371d58bcfb7bfcd2d9812970cb21e20214bce25"
+      },
+      {
+        "cell": 24,
+        "cell_id": "ed56ea36",
+        "action": "comment_only",
+        "original_source_sha256": "f06fdda44c8b8758d44120dd2b5a3709ce2bff2bb2493ff4e108ae10bbae3a5a",
+        "review_source_sha256": "5f50886fe674c7e74b17baade6ea695957d03779047a9e7f7dd0c59dae7ccf3d"
+      },
+      {
+        "cell": 25,
+        "cell_id": "47150c18",
+        "action": "clear_saved_error",
+        "original_source_sha256": "6be106162ad50f0630065303b0b4293bbfee6ed80a338cca3e8b0d9fa0e27928",
+        "review_source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "cell": 26,
+        "cell_id": "cfafb2ca",
+        "action": "comment_only",
+        "original_source_sha256": "8e859a61e7ba89bd057d127f090591b9298390f9fc43318573d33c60bdea1755",
+        "review_source_sha256": "3dff532b79d5b1ba0397ebd19e8f3c96e45876345e6259a9a92825a1128ec16c"
+      },
+      {
+        "cell": 27,
+        "cell_id": "70c52305",
+        "action": "preserve",
+        "original_source_sha256": "f1de6e250323ca7aa297b2f0919c98cb3e021d049d76e93d2d59e428ce06d4c1",
+        "review_source_sha256": "f1de6e250323ca7aa297b2f0919c98cb3e021d049d76e93d2d59e428ce06d4c1"
+      },
+      {
+        "cell": 28,
+        "cell_id": "8113ae2b",
+        "action": "preserve",
+        "original_source_sha256": "65b227ed431fd425e19f49690d391c15fc8323c12658201662995b7d2ae32a1e",
+        "review_source_sha256": "65b227ed431fd425e19f49690d391c15fc8323c12658201662995b7d2ae32a1e"
+      },
+      {
+        "cell": 29,
+        "cell_id": "5569e5f8",
+        "action": "comment_only",
+        "original_source_sha256": "49444b39ba5e904924f09e97c26d8a6867ec8005bbbebf57113227489d4d94b9",
+        "review_source_sha256": "2b6cce8520d9db91b79535dbaad4d82c807736a7117f614734f186626c476fd9"
+      },
+      {
+        "cell": 30,
+        "cell_id": "dcb8c074",
+        "action": "comment_only",
+        "original_source_sha256": "999545e5f8d1a87df82d71b00b878b6ff8c36fc63ea3c09647c1910b512fe25a",
+        "review_source_sha256": "91e4092d48bb4be3e786322bff0fe5b2ea0681715f48e573e903189bedcfd8f6"
+      }
+    ]
+  }
+]

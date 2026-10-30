@@ -1,0 +1,14 @@
+{
+  "valid_notebooks": 4,
+  "preserved_empty_notebooks": [],
+  "hdf5_files": 1268,
+  "xmf_files": 1268,
+  "xmf_references_checked": 1268,
+  "original_hashes_verified": 2558,
+  "errors": [],
+  "warnings": [],
+  "scope": "File integrity only; not CFD physical validation or model reproduction",
+  "reviewed_notebooks": 4,
+  "code_cell_positions_preserved": 94,
+  "saved_error_cells_cleared_in_review_copies": 1
+}

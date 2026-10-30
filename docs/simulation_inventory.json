@@ -1,0 +1,74 @@
+[
+  {
+    "configuration": "configuration1_interspacer0.75mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 199,
+    "xmf": 199
+  },
+  {
+    "configuration": "configuration1_interspacer0.75mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 199,
+    "xmf": 199
+  },
+  {
+    "configuration": "configuration2_interspacer1mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 150,
+    "xmf": 150
+  },
+  {
+    "configuration": "configuration2_interspacer1mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 150,
+    "xmf": 150
+  },
+  {
+    "configuration": "configuration3_interspacer1.5mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 100,
+    "xmf": 100
+  },
+  {
+    "configuration": "configuration3_interspacer1.5mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 100,
+    "xmf": 100
+  },
+  {
+    "configuration": "configuration4_interspacer2mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 75,
+    "xmf": 75
+  },
+  {
+    "configuration": "configuration4_interspacer2mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 75,
+    "xmf": 75
+  },
+  {
+    "configuration": "configuration5_interspacer2.5mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 60,
+    "xmf": 60
+  },
+  {
+    "configuration": "configuration5_interspacer2.5mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 60,
+    "xmf": 60
+  },
+  {
+    "configuration": "configuration6_interspacer3mm",
+    "resolution": "HR_spacer_images",
+    "hdf5": 50,
+    "xmf": 50
+  },
+  {
+    "configuration": "configuration6_interspacer3mm",
+    "resolution": "LR_spacer_images",
+    "hdf5": 50,
+    "xmf": 50
+  }
+]

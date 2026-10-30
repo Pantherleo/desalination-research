@@ -1,0 +1,54 @@
+{
+  "holdout_label": "configuration6_interspacer3mm",
+  "train_rows": 1168,
+  "test_rows": 100,
+  "geometry_counts": {
+    "configuration1_interspacer0.75mm": 398,
+    "configuration2_interspacer1mm": 300,
+    "configuration3_interspacer1.5mm": 200,
+    "configuration4_interspacer2mm": 150,
+    "configuration5_interspacer2.5mm": 120,
+    "configuration6_interspacer3mm": 100
+  },
+  "protocol": "Exact geometry holdout; fixed constants fitted on training targets only",
+  "targets": {
+    "Output_CP_Modulus_Factor": {
+      "train_mean": {
+        "constant": 1.1786990389263479,
+        "mae": 0.10182911079590093,
+        "rmse": 0.11335093358567024,
+        "r2": -0.09533559735512465
+      },
+      "train_median": {
+        "constant": 1.1264757343750476,
+        "mae": 0.10013617451106734,
+        "rmse": 0.1380887578843838,
+        "r2": -0.6255998309797905
+      }
+    },
+    "Output_Channel_Velocity_Mean": {
+      "train_mean": {
+        "constant": 0.09440272433479151,
+        "mae": 0.006181007400155065,
+        "rmse": 0.006623048198594138,
+        "r2": -0.01623889953461699
+      },
+      "train_median": {
+        "constant": 0.09434040635824203,
+        "mae": 0.006181007400155065,
+        "rmse": 0.006631213944226153,
+        "r2": -0.018746344367129852
+      }
+    }
+  },
+  "dataset": "Perfect_RO_Plant_Dataset2.xlsx",
+  "dataset_sha256": "68589539832e1f571ffd295ede489d8bacdb8aab9dc6bb65a81ff6fa4d65fe82",
+  "units": {
+    "Output_CP_Modulus_Factor": "ratio as defined by notebook; physical interpretation unverified",
+    "Output_Channel_Velocity_Mean": "source units not verified"
+  },
+  "limitations": [
+    "No confidence interval; independence between image indices not established",
+    "Constant reference only; historical model scores were not rerun"
+  ]
+}
